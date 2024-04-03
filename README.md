@@ -67,7 +67,9 @@ getch();
 
 ```
 # OUTPUT
-![Screenshot 2024-03-27 090540](https://github.com/Akshayasakthivels/IMPLEMENTATION-OF-SYMBOL-TABLE-/assets/144870561/31431cd3-c70d-450b-ac3a-ca690281bce7)
+
+![image1](https://github.com/sreekarsh/IMPLEMENTATION-OF-SYMBOL-TABLE-/assets/139841918/bda5e81d-0765-4bac-8d2c-b078df0f4785)
+
 
 # RESULT
 ### The program to implement a symbol table is executed and the output is verified.
